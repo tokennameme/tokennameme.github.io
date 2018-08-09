@@ -1,0 +1,35 @@
+title: 每日全球最新的Token代币资讯
+description: > # this means to ignore newlines until "baseurl:"
+  每日全球最新的Token代币资讯，汇总大量的免费空投的糖果，通证时代的Token发布，为企业提供Token钱包的解决方案，为企业提供Token代码的审计服务。
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: 每日最新代币Token # add your name
+author-img: david-freeman.jpg # add your photo
+about-author: 提供每日全球最新的Token代币资讯，汇总大量的免费空投的糖果，发布企业社区的Token，为企业提供Token钱包的解决方案，为企业提供Token代码的审计服务。 # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 10
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
