@@ -1,4 +1,4 @@
-title: 每日全球最新的Token代币资讯
+title: 每日最新Token资讯
 description: > # this means to ignore newlines until "baseurl:"
   每日全球最新的Token代币资讯，汇总大量的免费空投的糖果，通证时代的Token发布，为企业提供Token钱包的解决方案，为企业提供Token代码的审计服务。
 permalink: ':title/'
@@ -7,14 +7,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: 每日最新代币Token # add your name
+author: 每日最新Token资讯 # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: 提供每日全球最新的Token代币资讯，汇总大量的免费空投的糖果，发布企业社区的Token，为企业提供Token钱包的解决方案，为企业提供Token代码的审计服务。 # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+about-author: 提供每日全球最新的Token代币资讯，汇总免费空投的糖果，企业社区的Token，为企业提供Token钱包的解决方案，为企业提供Token代码的审计服务。 # add description
+social-twitter: tokennameme # add your Twitter handle
+social-facebook: tokennameme # add your Facebook handle
+social-github: tokennameme # add your Github handle
+social-linkedin: tokennameme # add your Linkedin handle
+social-email: tokennameme@mail85.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
