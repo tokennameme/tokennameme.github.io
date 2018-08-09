@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 每日最新Token资讯 # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: 提供每日最新Token代币资讯，<br/>推荐优秀的空投的糖果项目，<br/>国内优秀社区Token项目，<br/>提供企业Token钱包的解决方案，<br/>提供企业Token代码的审计服务。 # add description
+about-author: 提供每日最新Token代币资讯，<br/><br/>推荐优秀的空投的糖果项目，<br/><br/>国内优秀社区Token项目，<br/><br/>提供企业Token钱包解决方案，<br/><br/>提供企业Token代码审计服务。 # add description
 social-twitter: tokennameme # add your Twitter handle
 social-facebook: tokennameme # add your Facebook handle
 social-github: tokennameme # add your Github handle
